@@ -1,4 +1,4 @@
-<h1>Hi, I'm Werner! <br/><a href="https://linkedin.com/in/wernermongerivas">Biologist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Programmer</a>
+<h1>Hi, I'm Werner! <br/><a href="https://linkedin.com/in/wernermongerivas">Biologist</a>, <a href="https://github.com/WernerMonge">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
